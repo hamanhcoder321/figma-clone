@@ -23,6 +23,6 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
-# pnpm
+# pnpm 
 .pnpm-lock.yaml
 .pnpm-wokspace.yaml
